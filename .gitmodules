@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/digression99/winter-coding-todolist-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/digression99/winter-coding-todolist-server.git
